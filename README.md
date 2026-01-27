@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nithilashri/Leet/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/nithilashri/Leet/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/nithilashri/Leet/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/nithilashri/Leet/tree/master/0169-majority-element) |
 | [1929-concatenation-of-array](https://github.com/nithilashri/Leet/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/nithilashri/Leet/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/nithilashri/Leet/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/nithilashri/Leet/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
