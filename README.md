@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nithilashri/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nithilashri/Leet/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/nithilashri/Leet/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/nithilashri/Leet/tree/master/0268-missing-number) |
 | [1929-concatenation-of-array](https://github.com/nithilashri/Leet/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nithilashri/Leet/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/nithilashri/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/nithilashri/Leet/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/nithilashri/Leet/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nithilashri/Leet/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/nithilashri/Leet/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/nithilashri/Leet/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/nithilashri/Leet/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,9 +50,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nithilashri/Leet/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/nithilashri/Leet/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/nithilashri/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nithilashri/Leet/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nithilashri/Leet/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nithilashri/Leet/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
