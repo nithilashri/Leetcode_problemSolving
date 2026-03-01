@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/nithilashri/Leet/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/nithilashri/Leet/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/nithilashri/Leet/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/nithilashri/Leet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/nithilashri/Leet/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nithilashri/Leet/tree/master/0268-missing-number) |
 | [1929-concatenation-of-array](https://github.com/nithilashri/Leet/tree/master/1929-concatenation-of-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nithilashri/Leet/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/nithilashri/Leet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/nithilashri/Leet/tree/master/0268-missing-number) |
 ## Matrix
 |  |
