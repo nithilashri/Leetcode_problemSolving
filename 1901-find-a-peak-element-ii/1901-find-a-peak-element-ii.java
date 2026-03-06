@@ -13,7 +13,7 @@ class Solution {
 
             int maxRow = 0;
 
-            // find max element in mid column
+           
             for(int i = 0; i < m; i++){
                 if(mat[i][mid] > mat[maxRow][mid]){
                     maxRow = i;
