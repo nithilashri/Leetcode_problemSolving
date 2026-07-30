@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/nithilashri/Leet/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/nithilashri/Leet/tree/master/0031-next-permutation) |
+| [0876-middle-of-the-linked-list](https://github.com/nithilashri/Leet/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/nithilashri/Leet/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/nithilashri/Leet/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
