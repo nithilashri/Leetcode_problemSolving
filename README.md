@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nithilashri/Leet/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nithilashri/Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nithilashri/Leet/tree/master/0268-missing-number) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithilashri/Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nithilashri/Leet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/nithilashri/Leet/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/nithilashri/Leet/tree/master/1929-concatenation-of-array) |
@@ -110,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nithilashri/Leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nithilashri/Leet/tree/master/0232-implement-queue-using-stacks) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithilashri/Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithilashri/Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
