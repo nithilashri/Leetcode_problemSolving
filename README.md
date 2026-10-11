@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nithilashri/Leet/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nithilashri/Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nithilashri/Leet/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/nithilashri/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/nithilashri/Leet/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithilashri/Leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithilashri/Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nithilashri/Leet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nithilashri/Leet/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/nithilashri/Leet/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/nithilashri/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/nithilashri/Leet/tree/master/0904-fruit-into-baskets) |
 ## Simulation
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nithilashri/Leet/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithilashri/Leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithilashri/Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
