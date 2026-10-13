@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nithilashri/Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nithilashri/Leet/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/nithilashri/Leet/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/nithilashri/Leet/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/nithilashri/Leet/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithilashri/Leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nithilashri/Leet/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nithilashri/Leet/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nithilashri/Leet/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nithilashri/Leet/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/nithilashri/Leet/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/nithilashri/Leet/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nithilashri/Leet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/nithilashri/Leet/tree/master/1901-find-a-peak-element-ii) |
